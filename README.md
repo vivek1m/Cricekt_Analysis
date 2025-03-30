@@ -52,12 +52,6 @@ Includes calculated columns, measures, and aggregated metrics.
 📂 Dash_Screenshot/
 Stores Power BI dashboard screenshots for documentation and reference.
 
-🔹 3. VERSION CONTROL & REPOSITORY MANAGEMENT
-📂 .git/
-Git repository for version control and tracking code changes.
-
-Enables collaboration and backup management.
-
 🚀 FEATURES & INSIGHTS
 ✅ Data Cleaning & Preprocessing – Handling missing values, outliers, and formatting.
 ✅ Comprehensive Player Analysis – Strike rate, average, wickets, best performances.
